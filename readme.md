@@ -1,7 +1,5 @@
 # RocketNews
 
-![preview](./.github/RocketNews-Page.jpeg)
-
 > Desafio prosto pela plataforma Rocketseat na trilha Discover usando apenas CSS e HTML
 
 <h4 align="left"> 
